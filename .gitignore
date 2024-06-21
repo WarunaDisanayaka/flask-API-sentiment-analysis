@@ -1,0 +1,8 @@
+# Ignore specific files
+new_dataset.csv
+
+# Ignore specific directories
+/results-vote/
+/results-theme/
+/results-emotion/
+/results/
